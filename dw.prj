@@ -1,0 +1,17 @@
+;;; VLisp project file [V2.0] dw saved to:[W:/CAB/C.9999/Disegni/Componenti/Pannelli/00-BIFACCIALI/Software/DWparetiBF/Lisp] at:[7/15/20] 
+(VLISP-PROJECT-LIST
+  :name
+  dw
+  :own-list
+  ("distbase"
+    "acad" "dispas" "dissvi" "fori" "registra" "rinforzi")
+  :fas-directory
+  "W:\\CAB\\C.9999\\Disegni\\Componenti\\Pannelli\\00-BIFACCIALI\\Software\\DWparetiBF"
+  :tmp-directory
+  "W:\\CAB\\C.9999\\Disegni\\Componenti\\Pannelli\\00-BIFACCIALI\\Software\\DWparetiBF/Lisp"
+  :project-keys
+  (:BUILD (:standard) :MERGED nil :SAFE-MODE T :MSGLEVEL 1)
+  :context-id
+  :AUTOLISP
+)
+;;; EOF
